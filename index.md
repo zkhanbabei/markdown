@@ -10,3 +10,7 @@
                 dQ = k * (d1T_dz + d1T_dphi + d2T_dtheta2 + d2T_dphi2 + d2T_dz2)
                 T_new[k, i, j] += dt * (Q_in - Q_out + dQ)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] put my CV in there
